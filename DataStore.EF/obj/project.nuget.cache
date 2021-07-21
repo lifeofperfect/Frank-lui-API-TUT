@@ -1,15 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "4smbW2Jfs4ne64cJbfg1uEK+h02wtB7I3lCP3MxqGBHUoXcNNFDxkwpcBRw7f5JJ+meb/uzAJkc1WQvqiXHaVw==",
+  "dgSpecHash": "LHSe/Hh9sP1ZNUOUtJoF97qQ7jY3QKTQUX601zCwVZ51qI1k/GzfYNB2Sjc7XNaDKgmkAUjSwNa/ljMqA19keA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\A240940\\Desktop\\csharp\\Platform\\Platform\\Platform.csproj",
+  "projectFilePath": "C:\\Users\\A240940\\Desktop\\csharp\\Platform\\DataStore.EF\\DataStore.EF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A240940\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\A240940\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\A240940\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.10\\microsoft.entityframeworkcore.3.1.10.nupkg.sha512",
     "C:\\Users\\A240940\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.10\\microsoft.entityframeworkcore.abstractions.3.1.10.nupkg.sha512",
     "C:\\Users\\A240940\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.10\\microsoft.entityframeworkcore.analyzers.3.1.10.nupkg.sha512",
-    "C:\\Users\\A240940\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.10\\microsoft.entityframeworkcore.inmemory.3.1.10.nupkg.sha512",
     "C:\\Users\\A240940\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.10\\microsoft.extensions.caching.abstractions.3.1.10.nupkg.sha512",
     "C:\\Users\\A240940\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.10\\microsoft.extensions.caching.memory.3.1.10.nupkg.sha512",
     "C:\\Users\\A240940\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.10\\microsoft.extensions.configuration.3.1.10.nupkg.sha512",

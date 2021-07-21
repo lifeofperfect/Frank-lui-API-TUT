@@ -1,0 +1,12 @@
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\bin\Debug\netcoreapp3.1\DataStore.EF.deps.json
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\bin\Debug\netcoreapp3.1\DataStore.EF.dll
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\bin\Debug\netcoreapp3.1\DataStore.EF.pdb
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\obj\Debug\netcoreapp3.1\DataStore.EF.csproj.AssemblyReference.cache
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\obj\Debug\netcoreapp3.1\DataStore.EF.AssemblyInfoInputs.cache
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\obj\Debug\netcoreapp3.1\DataStore.EF.AssemblyInfo.cs
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\obj\Debug\netcoreapp3.1\DataStore.EF.csproj.CoreCompileInputs.cache
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\obj\Debug\netcoreapp3.1\DataStore.EF.csproj.CopyComplete
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\obj\Debug\netcoreapp3.1\DataStore.EF.dll
+C:\Users\A240940\Desktop\csharp\Platform\DataStore.EF\obj\Debug\netcoreapp3.1\DataStore.EF.pdb
